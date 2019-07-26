@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Music</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="song_list">Cá nhân</string>
+    <string name="playing">Playing</string>
+    <string name="matching">Matching</string>
+</resources>
